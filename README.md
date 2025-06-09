@@ -1,6 +1,6 @@
 #  Sup, ⚡Boltawy⚡ here.
 
-🚧 **Work-In-Progress Developer**🚧
+🚧 **Work-In-Progress Developer** 🚧
 
 Currently learning Backend and brushing up on Frontend.
 Visit back soon, *You'll be up for a surprise*.
