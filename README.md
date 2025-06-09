@@ -1,6 +1,5 @@
-## Wsup ?
-**Still working on it, Have a little patience!**
-
+# ⚡ Sup, I'm Zeyad (a.k.a. Boltawy)
+🚧 **Work-In-Progress Developer**
 <!--
 **Boltawy/Boltawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
