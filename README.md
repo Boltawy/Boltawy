@@ -1,4 +1,4 @@
-#  Sup, Boltawy here.
+#  ⚡ Sup, *Boltawy* here. ⚡
 
 🚧 **Work-In-Progress Developer** 🚧
 
