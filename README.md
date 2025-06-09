@@ -2,7 +2,7 @@
 
 🚧 **Work-In-Progress Full-Stack Developer** 🚧
 
-🧠 Currently learning: Backend with Node.js *(Express, NestJS, MySQL, MongoDB)*  
+🧠 Currently learning Backend with Node.js *(Express, NestJS, MySQL, MongoDB)*  
 🎯 Brushing up on Frontend skills  
 🎮 Latest fun project: [Spicy-Tower](https://github.com/Boltawy/Spicy-Tower)
 
