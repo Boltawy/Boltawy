@@ -1,10 +1,12 @@
-#  ⚡ Sup, *Boltawy* here. ⚡
+#  ⚡ Hey There, *Boltawy* here. ⚡
 
-🚧 **Work-In-Progress Developer** 🚧
+🚧 **Work-In-Progress Full-Stack Developer** 🚧
 
-Currently learning Backend and brushing up on Frontend.
+🧠 Currently learning: Node.js, Express, MongoDB  
+🎯 Brushing up on Frontend skills  
+🎮 Latest fun project: [Spicy-Tower](https://github.com/Boltawy/Spicy-Tower)
 
-Visit back soon, *You'll be in for a surprise*.
+> _Visit back soon... You’ll be in for a surprise._
 <!--
 **Boltawy/Boltawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
