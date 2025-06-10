@@ -1,6 +1,6 @@
 #  ⚡ Hey There, *Boltawy* here. ⚡
 
-🚧 **Work-In-Progress Full-Stack Developer** 🚧
+🚧 **Full-Stack dev-in-progress** 🚧
 
 🧠 Currently learning Backend with Node.js *(Express, NestJS, MySQL, MongoDB)*  
 🎯 Brushing up on Frontend skills  
