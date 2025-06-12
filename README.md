@@ -1,4 +1,4 @@
-#  ⚡ Hey There, *Boltawy* here. ⚡
+#  Hello world, it's me.
 
 🚧 **Full-Stack dev-in-progress** 🚧
 
