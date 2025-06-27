@@ -6,7 +6,7 @@
 🎯 Experimenting with advanced concepts in Frontend  
 🌶️ I love spicy food, And also [Spicy Games](https://github.com/Boltawy/Spicy-Tower)
 
-📎 Connect with me on LinkedIn :https://www.linkedin.com/in/boltawy
+📎 Connect with me on LinkedIn :https://www.linkedin.com/in/boltawy  
 🧭 More about me on my portfolio: https://boltfolio.vercel.app
 
 
