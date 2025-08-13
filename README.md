@@ -1,6 +1,6 @@
 #  Fixing the world, one commit at a time.
 
-🚧 **Full-Stack dev-in-progress** 🚧
+🚧 **Full-Stack dev** 🚧
 
 🧠 Currently learning Backend with Node.js *(Express, NestJS, MySQL, MongoDB)*  
 🎯 Experimenting with advanced concepts in Frontend  
