@@ -2,8 +2,8 @@
 
 🚧 **Full-Stack dev** 🚧
 
-🧠 Currently learning Backend with Node.js *(Express, NestJS, MySQL, MongoDB)*  
-🎯 Experimenting with advanced concepts in Frontend  
+I like building projects I would use.
+
 🌶️ I love spicy food, And also [Spicy Games](https://github.com/Boltawy/Spicy-Tower)
 
 📎 Connect with me on LinkedIn :https://www.linkedin.com/in/boltawy  
