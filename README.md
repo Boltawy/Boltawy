@@ -1,6 +1,6 @@
 #  Fixing the world, one commit at a time.
 
-🚧 **Full-Stack dev** 🚧
+ **Full-Stack dev** 
 
 I like building projects I would use.
 
