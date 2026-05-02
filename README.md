@@ -2,7 +2,7 @@
 
  **Full-Stack dev** 
 
-~1 YOE building features in startups.
++1 YOE building features in startups.
 I like building projects I would use.
 
 🌶️ I love spicy food, And also [Spicy Games](https://github.com/Boltawy/Spicy-Tower)
